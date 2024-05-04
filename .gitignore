@@ -136,3 +136,6 @@ dist
 
 # Prevent Figma files from being tracked by Git.
 *.fig
+
+# Using tailwind CDN so no need to upload tailwind.config.js
+tailwind.config.js
